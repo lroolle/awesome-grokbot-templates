@@ -248,6 +248,10 @@ A single unusual job done tightly.
 - [divo12/awesome-grok-bot-templates](https://github.com/divo12/awesome-grok-bot-templates) - Smaller job-grouped list of live share links.
 - [majiayu000/awesome-grok-bot](https://github.com/majiayu000/awesome-grok-bot) - Broader live-share index.
 
+## Skills
+
+Reusable agent skills for **making** templates (not bot share links): see [`skills/`](./skills/).
+
 ## Contribute
 
 Pull requests welcome. See the [contributing guidelines](CONTRIBUTING.md).
