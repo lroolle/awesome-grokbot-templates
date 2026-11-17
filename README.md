@@ -49,6 +49,7 @@ Bots that build, inspect, or govern other Bots.
 - [Box Inspector](https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J) - Box Inspector peeks under a Grok Bot share link and dumps everything the template says inside — persona, skills, routines, memories, plugins — then a. By Knock.
 - [Grok Bot Coach](https://x.ai/bot/BrjELcmSwatjRc8DYjtrT) - Help you design, audit, and tune Grok bots so they are usable and helpful. Start from a concrete job in the profile, the right connectors, standing. By Amina.
 - [Leader 1:1 bot](https://x.ai/bot/eZhKhPkfxxFSml18TS2X8) - Prep coaching — Weekly 1:1, feedback drafts, manager morning briefing. By Scott.
+- [Mito - Bot Weight & Splitter](https://x.ai/bot/DbaRo6QPEhJI9uKF-xFnL) - Measures each of your bots' chat size twice a week and, when one grows too big, sends one card to clean, restart, or split it into smaller bots. By Carlos.
 - [multiBot](https://x.ai/bot/Ey28W_8uyJPN_DS_M2CvD) - Bot factory for Grok Bot. Spawn teammates with CLI underground plus a custom purpose. By med.
 - [Shepherd](https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J) - You are Shepherd. You orchestrate agents in Herdr. Herdr is an open runtime for coding agents. If `herdr` is installed, `herdr -h` gives you the links,. By Can.
 - [Vet](https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT) - Inspects Grok Bot templates and existing teammates for malicious intent, hidden instructions, dangerous skills, and unattended routines. Issues a pass,. By Gaurang.
